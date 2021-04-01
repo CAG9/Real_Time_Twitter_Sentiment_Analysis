@@ -9,7 +9,7 @@ MIT Licence
 Plotting in real time the amount of positive tweets between the concepts 'usa' and 'china'.
 
 ## Run 
-First: Run jupyter notebook named Real_time_Twitter_Sentiments, next run Real_time_plot and you will watch the plot
+First: Run jupyter notebook named Real_Time_Exe.ipynb , next run Real_time_plot.ipynb and you will watch the plot
 
 ## General objectives:
 Be able to analysis text in real time using ibraries such as sklearn, tweepy, TextBlob. 
