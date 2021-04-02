@@ -7,7 +7,8 @@ MIT Licence
 
 ## Introduction: 
 Plotting in real time the amount of positive tweets between the concepts 'usa' and 'china'.
-
+## Requirements:
+- Twitter developer token
 ## Run 
 First: Run jupyter notebook named Real_Time_Exe.ipynb , next run Real_time_plot.ipynb and you will watch the plot
 
