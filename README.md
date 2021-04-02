@@ -1,6 +1,6 @@
 # Real Time Twitter Sentiment Analysis
 ## Authors: 
-- Cesar Arcos-Gonzalez: cesar99ag@gnail.com
+- Cesar Arcos-Gonzalez: cesar99ag@gmail.com
 
 ## License : 
 MIT Licence
