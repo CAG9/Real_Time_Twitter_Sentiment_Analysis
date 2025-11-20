@@ -1,5 +1,5 @@
 # Real Time Twitter Sentiment Analysis
-## Authors: 
+## Author: 
 - Cesar Arcos-Gonzalez: cesar99ag@gmail.com
 
 ## License : 
